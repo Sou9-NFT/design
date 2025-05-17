@@ -1,5 +1,19 @@
 # design
 
+## logo
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/fec5e6f8-d246-44a4-8976-e179a3a12e50" alt="icon 2">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ca18405f-ac21-4d2d-ae33-8f987df53d55" alt="icon">
+    </td>
+  </tr>
+</table>
+
+
 ## Typography
 
 ### Fonts
